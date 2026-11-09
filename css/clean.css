@@ -54,9 +54,9 @@ a {
     color: #3a1a1a;
     font-weight: 600;
 }
-
+        
 #navigation {
-    background: #f1bdbd;
+    background: #1ba698;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
@@ -152,7 +152,7 @@ a {
 
 .primary-btn {
     display: inline-block;
-    background: #e28c8c;
+    background: #5affef;
     color: #3a1a1a;
     border: none;
     border-radius: 999px;
@@ -164,11 +164,11 @@ a {
 
 .primary-btn:hover {
     opacity: 0.9;
-    background: #d67a7a;
+    background: #1ba698;
 }
 
 #footer {
-    background: #f0c8c8;
+    background: #1ba698;
     color: #3a1a1a;
 }
 
@@ -198,7 +198,7 @@ a {
 }
 
 #bottom-footer {
-    background: #e8b0b0;
+    background: #2b7d77;
     color: #3a1a1a;
     padding: 20px 0;
     text-align: center;
